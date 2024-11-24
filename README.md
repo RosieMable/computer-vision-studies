@@ -1,2 +1,2 @@
 # Computer Vision Studies
-Where I learn mode on Computer Vision, ML and Python.
+Where I learn more about Computer Vision, Image Processing, ML and Python.
